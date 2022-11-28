@@ -10,3 +10,8 @@
 (23)	git commit -m "Paso 23"
 (24)	git checkout master
 (25)					Se haría de manera recursiva
+(26)	git add - + git commit -m "Paso 26"
+(27)	git tag RespuestaPreguntaFusion
+(28)	git push origin RespuestaPreguntaFusion
+	+ git push origin master		Aparece un problema puesto que el repositorio remoto ha cambiado,
+						se realiza un git pull y una vez solucionado, se hace otra vez el push.
