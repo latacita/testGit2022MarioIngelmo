@@ -29,3 +29,5 @@
 (28)	git push origin RespuestaPreguntaFusion
 	+ git push origin master		Aparece un problema puesto que el repositorio remoto ha cambiado,
 						se realiza un git pull y una vez solucionado, se hace otra vez el push.
+(30)	git add . + git commit -m "Paso 30"
+(31)	git merge Historia001		Fusión recursiva, genera conflicto en bitacora.txt, se resuelven, se hace un add y un commit
