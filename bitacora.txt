@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Ingelmo Diana, Mario                 %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(22)	git add .
+(23)	git commit -m "Paso 23"
+(24)	git checkout master
+(25)					Se haría de manera recursiva
